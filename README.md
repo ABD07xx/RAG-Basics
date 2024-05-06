@@ -29,7 +29,7 @@ Place your target PDF documents in the PDF directory within your project folder.
 Open your terminal and navigate to the project directory.
 Run the script using the following command:
 
-python name_of_your_script.py
+*python name_of_your_script.py*
 
 Replace name_of_your_script.py with the actual name of your Python script.
 
