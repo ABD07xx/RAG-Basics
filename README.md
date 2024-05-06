@@ -1,4 +1,6 @@
-PDF Summarizer
+<div align="center">
+  <h1>"PDF Summarizer</h1>
+</div>
 
 Overview
 -----------------
